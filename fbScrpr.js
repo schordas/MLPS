@@ -8,6 +8,8 @@ var email="";
 var pass="";
 	// email = casper.echo(casper.cli.get(0));
 	// pass = casper.echo(casper.cli.get(1)
+// TODO:
+// take email and pass as command line args
 
 
 var login_username = /*   */;
